@@ -1,0 +1,4 @@
+tru_tag,tru_description,discipline,system,subsystem,location,priority,responsible_party,source_reference,comments
+TRU-001,Transformer rectifier unit for Area A,Cathodic Protection,CP System,TRU Network,Area A,High,CP Engineer,TRU list rev A,Initial sample row
+TRU-002,Remote monitoring cabinet for CP station,Instrumentation,Monitoring,Remote Cabinet,Station 02,Medium,Instrumentation Lead,Site survey sheet,Confirm final tag naming
+TRU-003,Anode junction box for pipeline segment,Electrical,Anode System,Junction Box,Pipeline KP 12,Low,Electrical Engineer,Layout drawing CP-1001,
