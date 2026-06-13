@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Generated workbooks
+*.xlsx
+!examples/*.xlsx
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
